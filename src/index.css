@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.bg {
+  float: left;
+  width: 200px;
+  height: 30px;
+}
